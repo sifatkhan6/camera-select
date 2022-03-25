@@ -1,0 +1,36 @@
+.product{
+    width: 300px;
+    height: 400px;
+    border: 1px solid black;
+    border-radius: 6px;
+    margin-bottom: 30px;
+    padding: 4px;
+    position: relative;
+}
+
+.product img{
+    width: 300px;
+    height: 200px;
+    border-radius: 6px;
+}
+
+.product-info{
+    margin-left: 2%;
+}
+
+.cart-btn{
+    width: 100%;
+    border: none;
+    border-radius: 6px;
+    position: absolute;
+    bottom: 0;
+    background-color: gray;
+}
+
+.cart-btn p{
+    color: white;
+}
+
+.cart-btn :hover{
+    background-color: black;
+}

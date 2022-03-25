@@ -1,56 +1,56 @@
 [
     {
       "id": "623e233c4b18fbcc6d3be831",
-      "picture": "../src/images/image1.jpg",
+      "picture": "./images/image1.jpg",
       "price": 2098,
-      "name": "Geneva Miranda"
+      "name": "Sony Alpha"
     },
     {
       "id": "623e233c1ab718a07497c98b",
-      "picture": "../src/images/image2.jpg",
+      "picture": "./images/image2.jpg",
       "price": 2919,
-      "name": "Janette Small"
+      "name": "Sony Janina"
     },
     {
       "id": "623e233caed8131752f5ad28",
-      "picture": "../src/images/image3.jpg",
+      "picture": "./images/image3.jpg",
       "price": 1472,
-      "name": "Fisher Norris"
+      "name": "Canon 6D"
     },
     {
       "id": "623e233c946b94e68f31825a",
-      "picture": "../src/images/image4.jpg",
+      "picture": "./images/image4.jpg",
       "price": 3030,
-      "name": "Ramsey Simpson"
+      "name": "Canon 70D"
     },
     {
       "id": "623e233ce4157b999fa3cb06",
-      "picture": "../src/images/image5.jpg",
+      "picture": "./images/image5.jpg",
       "price": 3593,
-      "name": "Noreen Shelton"
+      "name": "Canon 1200D"
     },
     {
       "id": "623e233cb52336d9735e5659",
-      "picture": "../src/images/image6.jpg",
+      "picture": "./images/image6.jpg",
       "price": 3720,
-      "name": "Bray Peck"
+      "name": "Canon 5D"
     },
     {
       "id": "623e233ced83b314343970f3",
-      "picture": "../src/images/image7.jpg",
+      "picture": "./images/image7.jpg",
       "price": 3331,
-      "name": "Dunn Wyatt"
+      "name": "Sony Borolox"
     },
     {
       "id": "623e233ccfe61acc9a7ab5d3",
-      "picture": "../src/images/image8.jpg",
+      "picture": "./images/image8.jpg",
       "price": 2435,
-      "name": "Rhonda Edwards"
+      "name": "Nikon Goribz"
     },
     {
       "id": "623e233c606a2784deca74b3",
-      "picture": "../src/images/image9.jpg",
+      "picture": "./images/image9.jpg",
       "price": 1223,
-      "name": "Janie Espinoza"
+      "name": "Canon Konda"
     }
   ]
