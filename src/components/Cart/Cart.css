@@ -11,17 +11,31 @@
     border: 1px solid black;
 }
 
+.btn-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .btn1{
     background-color: gray;
     padding: 10px;
-    border: none;
+    border: 1px gray;
     border-radius: 4px;
 }
 
 .btn2{
     background-color: gray;
     padding: 10px;
-    border: none;
+    border: 1px gray;
     border-radius: 4px;
     margin-left: 4px;
+}
+
+.btn1:hover{
+    background-color: rgb(187, 187, 187);
+}
+
+.btn2:hover{
+    background-color: rgb(187, 187, 187);
 }
