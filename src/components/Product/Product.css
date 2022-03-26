@@ -18,19 +18,31 @@
     margin-left: 2%;
 }
 
+.btn-paragraph{
+    color: white;
+    margin-right: 5%;
+}
+
 .cart-btn{
     width: 100%;
     border: none;
     border-radius: 6px;
     position: absolute;
     bottom: 0;
+    right: 0;
+    left: 0;
     background-color: gray;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0;
+    margin-right: 0;
 }
 
-.cart-btn p{
-    color: white;
-}
-
-.cart-btn :hover{
+/* .cart-btn :hover{
     background-color: black;
-}
+} */
+
+
+
