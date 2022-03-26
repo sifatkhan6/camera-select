@@ -13,6 +13,12 @@
     padding: 0;
 }
 
+.cart-container{
+    background-color: rgb(219, 219, 219);
+    border-radius: 6px;
+    border: none;
+}
+
 @media screen and (max-width: 500px) {
     .products-container{
         display: grid;
